@@ -234,3 +234,4 @@ p4 <- company_summary_NO_NA_clean |>
        title = "Distribution of log(Employee Count)") +
   theme_bw()
 (p1 + p2) / (p3 + p4)
+
